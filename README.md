@@ -1,4 +1,4 @@
-<input id="question" placeholder="Ask something">
+ <input id="question" placeholder="Ask something">
 <button onclick="ask()">Ask</button>
 
 <p id="answer"></p>
